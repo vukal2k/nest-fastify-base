@@ -1,0 +1,19 @@
+{
+  "name": "nest-fastify-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vukal2k/nest-fastify-base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vukal2k/nest-fastify-base/issues"
+  },
+  "homepage": "https://github.com/vukal2k/nest-fastify-base#readme"
+}
