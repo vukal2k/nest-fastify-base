@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vukal2k/nest-fastify-base/issues"
   },
-  "homepage": "https://github.com/vukal2k/nest-fastify-base#readme"
+  "homepage": "https://github.com/vukal2k/nest-fastify-base#readme",
+  "workspaces": [
+    "api"
+  ]
 }
